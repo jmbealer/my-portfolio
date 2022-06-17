@@ -37,3 +37,7 @@ header > div, body > footer {
     background-color: black !important;
     color: grey;
 }
+
+body > footer {
+    height: 50px;
+}
