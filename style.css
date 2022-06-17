@@ -1,21 +1,27 @@
+/* changes over whole page */
 * {
     /* color: lightgray; */
     /* background-color: darkgray; */
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     /* margin: 0%; */
-    padding-left: 5%;
-    padding-right: 5%;
+    padding-left: 0%;
+    padding-right: 0%;
 }
 
+
+
+/* for heading 1 */
 h1 {
     font-size: 50px;
 }
 
+/* for body and header */
 body > header {
     margin: 0%;
 }
 
+/* give my links color */
 a:link{
     color: darkblue;
 }
@@ -29,6 +35,7 @@ a:active{
     color: darkgoldenrod;
 }
 
+/* for articles */
 main > div > article {
     color: black;
 }
@@ -38,6 +45,7 @@ header > div, body > footer {
     color: grey;
 }
 
+/* for main footer */
 body > footer {
     height: 50px;
 }
