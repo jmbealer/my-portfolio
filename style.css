@@ -9,6 +9,15 @@
     padding-right: 0%;
 }
 
+/* nav { */
+    /* display: flex; */
+    /* align-items: center; */
+/* } */
+
+nav ul li {
+    list-style-type: none;
+    display: inline-block;
+}
 
 
 /* for heading 1 */
