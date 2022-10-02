@@ -1,0 +1,24 @@
+{
+  "name": "my-portfolio",
+  "version": "1.0.0",
+  "description": "a basic portfolio; which i'm currently updating it.",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmbealer/my-portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmbealer/my-portfolio/issues"
+  },
+  "homepage": "https://github.com/jmbealer/my-portfolio#readme",
+  "dependencies": {
+    "express.js": "^1.0.0",
+    "nodemailer": "^6.8.0",
+    "nodemon": "^2.0.20"
+  }
+}
