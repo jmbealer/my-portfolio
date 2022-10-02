@@ -1,6 +1,6 @@
 #+title: Readme
 
-a very basic portfolio
+a basic portfolio; which i'm currently updating it.
 
 ** testing
 #+begin_src html :tangle test.html
