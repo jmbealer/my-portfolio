@@ -12,7 +12,7 @@
   <!-- setting the author for page -->
   <meta name="author" content="Justin Bealer">
   <!-- refresh document every 30 seconds -->
-  <meta http-equiv="refreash" content="30">
+  <meta http-equiv="refresh" content="15">
   <!-- making sure the site looks good on all devices -->
   <meta name="viewport" content="width=device-width,  initial-scale=1.0">
   <!-- title for the browers -->
@@ -35,7 +35,7 @@
     <h1 class="brand">lo<span class="highlight">go</span></h1>
     <ul class="links-container">
       <li class="links-item"><a href="#" class="link active">home</a></li>
-      <li class="links-item"><a href="#" class="link">project</a></li>
+      <li class="links-item"><a href="#project-section" class="link">project</a></li>
       <li class="links-item"><a href="#about-section" class="link">about</a></li>
       <li class="links-item"><a href="#" class="link">contact</a></li>
     </ul>
@@ -126,6 +126,32 @@
       </div>
   </section>
 
+  <!-- project -->
+  <section class="project" id="project-section">
+    <h2 class="heading">Project<span class="highlight">s</span></h2>
+    <p class="sub-heading">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, omnis amet fugit fuga laudantium provident, esse sed quas debitis voluptatum ullam. Harum, necessitatibus maxime voluptatibus nam optio eos distinctio dolorem?</p>
+    <div class="separator"></div>
+
+    <div class="filters">
+      <button class="filter-btn active" id="all">all</button>
+      <button class="filter-btn" id="javascript">javaScript</button>
+      <button class="filter-btn" id="ui">ui/Ux</button>
+      <button class="filter-btn" id="backend">backend</button>
+      <button class="filter-btn" id="fullstack">fullStack</button>
+    </div>
+
+    <div class="project-container">
+      <!-- <div class="project-card">
+              <img class="about-image" src="img/computer.jpeg" alt="programming on laptop" />
+              <div class="content">
+                <h1 class="project-name">project one</h1>
+                <span class="tags">#javascript</span>
+              </div>
+            </div> -->
+    </div>
+
+  </section>
+
       <!-- <article class="about"> -->
         <!-- <section> -->
           <!-- <header> -->
@@ -169,6 +195,7 @@
     </div>
   </footer>
 
+  <script src="project.js"> </script>
   <script src="app.js"> </script>
 
 </body>
