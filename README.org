@@ -5,6 +5,5 @@ a basic portfolio; which i'm currently updating it.
 TODO
 
 replace stock photos and text
-finish mobile design
 
-screen in reeadme when done
+need to fix contact me
