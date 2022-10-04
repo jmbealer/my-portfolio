@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/jmbealer/my-portfolio#readme",
   "dependencies": {
+    "dotenv": "^16.0.3",
     "express.js": "^1.0.0",
     "nodemailer": "^6.8.0",
     "nodemon": "^2.0.20"
