@@ -12,10 +12,10 @@ let projects = [
     image: "decoderRingHome.png",
   },
   {
-    name: "project three",
-    tags: "#ui/ux",
-    // image: "project (3).png",
-    image: "computer.jpeg",
+    name: "Flashcard-o-matic",
+    // tags: "#ui/ux",
+    tags: "#javascript",
+    image: "flashcardHome.png",
   },
   {
     name: "project four",
