@@ -7,9 +7,9 @@ let projects = [
   },
   {
     name: "project two",
-    tags: "#javascript, #fullstack",
-    // image: "project (2).png",
-    image: "computer.jpeg",
+    // tags: "#javascript, #fullstack",
+    tags: "#javascript",
+    image: "decoderRingHome.png",
   },
   {
     name: "project three",
