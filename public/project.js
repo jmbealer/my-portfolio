@@ -6,7 +6,7 @@ let projects = [
     image: "localLibraryHome.png",
   },
   {
-    name: "project two",
+    name: "Decoder Ring",
     // tags: "#javascript, #fullstack",
     tags: "#javascript",
     image: "decoderRingHome.png",
