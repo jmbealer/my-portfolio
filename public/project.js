@@ -1,9 +1,9 @@
 let projects = [
   {
-    name: "project one",
-    tags: "#javascript, #fullstack, #ui/ux, #backend",
-    // image: "project (1).png",
-    image: "computer.jpeg",
+    name: "Local Library",
+    // tags: "#javascript, #fullstack, #ui/ux, #backend",
+    tags: "#javascript",
+    image: "localLibraryHome.png",
   },
   {
     name: "project two",
